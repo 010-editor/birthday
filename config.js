@@ -30,7 +30,22 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "心爱的小可爱": "./imgs/xiaokeai.png",
+        "送给我": "./imgs/songxinxin.jpeg",
+        "心爱的姑娘": "./imgs/1.jpg",
+        "今天是你的生日": "./imgs/shengri.jpeg",
+        "这是我们在一起的": "./imgs/zaiyiqi.png",
+        "第一个生日！": "./imgs/nothing.jpg",
+        "写累了md": "./imgs/yangzi.jpeg",
+        "啊啊啊啊啊啊啊啊啊啊啊啊",
+        "奇怪的样子": "./imgs/2.jpg",
+        "可爱的样子": "./imgs/3.jpg",
+        "都是我喜欢的样子": "./imgs/4.gif",
+        "对了，礼物收全了吗？": "./imgs/chuo.gif",
+        "今年要按时吃饭": "./imgs/chihaodian.jpeg",
+        "然后才有力气学习": "./imgs/5.jpg",
+        "和想我！": "./imgs/4.jpg",
+        "生日快乐~~": "./imgs/6.jpg"
+        "YAMI~~",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
